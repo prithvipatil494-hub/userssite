@@ -41,7 +41,7 @@ const USER_COLORS = [
 ]
 
 const MAPBOX_TOKEN = "pk.eyJ1IjoicHJpdGh2aXdpdGgiLCJhIjoiY21qeDF6bGN3MGxvNzNmcjJxOThpcmQzayJ9.MLtVoDzJ_4yizAxgibwI-w"
-const SERVER_URL = "http://localhost:5000"
+const SERVER_URL = "https://bustrackuserserver.onrender.com"
 const SESSION_ID = "default-session"
 
 export default function MapComponent() {
